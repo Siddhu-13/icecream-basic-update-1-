@@ -1,0 +1,30 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-size: 20px; 
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.link{
+    text-align: center;
+}
+.logo{
+    text-align: center;
+    margin-top: 40px;
+}
+a
+  {
+    font-size: 20px;
+    background-color: red;
+    padding: 8px;
+    color: white; 
+  }
+  .service{
+    text-align: center;
+  }
+img{
+     width: 33%;
+   }
